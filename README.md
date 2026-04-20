@@ -128,9 +128,4 @@ python main.py
 
 ---
 
-## 📜 License
-
-This project is developed for academic purposes only.
-
----
 
