@@ -21,7 +21,7 @@ Unlike traditional methods, **no parametric distribution (Gaussian, etc.) is ass
 Each input value ( x ) is transformed into ( z ) using:
 
 [
-z = x + a_r \cdot \sin(b_r \cdot x)
+z = x + a_r*sin(b_r * x)
 ]
 
 ### 🔢 Parameters
@@ -32,7 +32,7 @@ Roll Number: **102303048**
 * ( b_r = 0.3 \times ((r \bmod 5) + 1) = 0.3 \times 4 = 1.2 )
 
 ---
----
+
 
 ## 🧠 GAN Architecture
 
