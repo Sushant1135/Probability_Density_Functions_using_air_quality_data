@@ -28,8 +28,8 @@ z = x + a_r*sin(b_r * x)
 
 Roll Number: **102303048**
 
-* ( a_r = 0.5 \times (r \bmod 7) = 0.5 \times 1 = 0.5 )
-* ( b_r = 0.3 \times ((r \bmod 5) + 1) = 0.3 \times 4 = 1.2 )
+* ( a_r = 0.5 * (r mod 7) = 0.5 * 1 = 0.5 )
+* ( b_r = 0.3 * ((r mod 5) + 1) = 0.3 * 4 = 1.2 )
 
 ---
 
