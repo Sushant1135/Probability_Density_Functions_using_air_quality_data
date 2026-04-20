@@ -81,7 +81,8 @@ The output compares:
 * Real distribution (histogram)
 * GAN-learned distribution (KDE curve)
 
-![PDF Plot](outputs/pdf_plot.png)
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/ff5ce887-4e9e-4242-985b-a46bda05f039" />
+
 
 ---
 
